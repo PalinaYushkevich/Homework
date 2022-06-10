@@ -9,7 +9,7 @@ body {
 .block {
     height: 575px;
     width: 430px;
-    background: linear-gradient(rgba(35, 72, 85, 0.75), rgba(35, 43, 85, 0.95));
+    background: linear-gradient(rgba(67, 35, 85, 0.75), rgba(85, 35, 84, 0.95));
     border-radius: 5px;
     box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.5);
     margin-left: auto;

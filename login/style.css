@@ -35,7 +35,7 @@ body {
 .links .active a {
     padding-bottom: 5px;
     color: #ffffff;
-    border-bottom: solid 2px #ffcf10;
+    border-bottom: solid 2px #107cff;
 }
 
 form {
@@ -74,7 +74,7 @@ form {
 
 .form-singin {
     width: 100%;
-    background-color: rgb(255, 199, 16);
+    background-color: rgb(16, 132, 255);
     border: none;
     height: 35px;
     border-radius: 20px;
